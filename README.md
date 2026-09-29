@@ -1,2 +1,5 @@
 # android-barrage
-Barrage plain-language clone of fitzyracing1/android
+
+Barrage clone of [fitzyracing1/android](https://github.com/fitzyracing1/android).
+
+Read [listing.barrage](listing.barrage).
